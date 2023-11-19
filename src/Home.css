@@ -1,0 +1,30 @@
+/* Home.css */
+
+/* Styles for the home container */
+.home {
+    width: 100%; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 20px;
+    /* Add other styles for the home container */
+  }
+  
+  /* Styles for the section containing the cards */
+  .home__section {
+    margin-top: 20px;
+    /* Add other styles for the section */
+  }
+  
+  /* Styles for each row of cards */
+  .home__row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Adjust the gap between cards */
+    /* Add other styles for the row */
+  }
+  
+  /* Styles for the individual card */
+  .card {
+    width: 30%; /* Adjust the width of each card */
+    /* Add other styles for the card */
+  }
+  
